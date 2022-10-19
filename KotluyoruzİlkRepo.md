@@ -4,7 +4,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ## Installation
 
 ```bash
-https://github.com/melissaOzay/kodluyoruzilkrepo.git
+https://github.com/melissaOzay/Kotluyoruz-HomeWork.git
 ```
 
 ## Usage
